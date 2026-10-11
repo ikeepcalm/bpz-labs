@@ -9,3 +9,4 @@ venv/
 reports/
 sbom.json
 .DS_Store
+.idea/
